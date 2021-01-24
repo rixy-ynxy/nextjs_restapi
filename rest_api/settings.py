@@ -59,7 +59,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ORIGIN_WHITELIST = [
-    'http://localhost:3000',"https://nextjs-api-heroku.herokuapp.com/"
+    'http://localhost:3000',"https://next-django-auth-crud-85i1v7x5y.vercel.app//"
 ]
 SIMPLE_JWT = {
     'AUTH_HEADER_TYPES': ('JWT',),
