@@ -59,7 +59,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ORIGIN_WHITELIST = [
-    'http://localhost:3000',"https://next-django-auth-crud-85i1v7x5y.vercel.app//"
+    'http://localhost:3000',
 ]
 SIMPLE_JWT = {
     'AUTH_HEADER_TYPES': ('JWT',),
